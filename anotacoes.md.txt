@@ -1,0 +1,18 @@
+# Anotações
+
+
+
+#### GIT e GITHUB
+
+
+
+###### GIT
+
+GIT é um sistema de controle de versão distribuído que evita alterações realizada em um projeto modifiquem o código fonte.
+
+
+
+
+
+ 
+
